@@ -25,15 +25,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
