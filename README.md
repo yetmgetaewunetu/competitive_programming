@@ -19,4 +19,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0141-linked-list-cycle) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Array
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
