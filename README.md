@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
