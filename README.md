@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2556-convert-the-temperature](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/2556-convert-the-temperature) |
