@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
