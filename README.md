@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0886-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## String
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
