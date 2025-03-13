@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0886-score-of-parentheses) |
 ## Monotonic Stack
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,5 +75,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
