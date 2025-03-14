@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0886-score-of-parentheses) |
@@ -87,4 +88,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0859-design-circular-deque) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yetmgetaewunetu/competitive_programming/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
