@@ -10,12 +10,10 @@ class Solution:
             return []
         
         arr = []
-        if root.left:
-            arr.extend(self.inorderTraversal(root.left))
+        arr.extend(self.inorderTraversal(root.left))
 
         arr.append(root.val)
 
-        if root.right:
-            arr.extend(self.inorderTraversal(root.right))
+        arr.extend(self.inorderTraversal(root.right))
         
         return arr
