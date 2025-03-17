@@ -12,16 +12,14 @@ class Solution:
         cur = dummy
         while cur:
             if val < cur.val:
-                if cur.left:
-                    cur = cur.left
-                else:
+                if not cur.left:
                     cur.left = node
-                    return dummy.left
+                    break
+                cur = cur.left
             else:
-                if cur.right:
-                    cur = cur.right
-                else:
+                if not cur.right:
                     cur.right = node
-                    return dummy.left
+                    break
+                cur = cur.right
         return dummy.left
             
